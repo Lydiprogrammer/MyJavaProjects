@@ -1,8 +1,9 @@
 
 	/**
 	 * @author Lidia Nagy
-	 * The Stock Class keeps registered of books as follows: The Stock Class
-	 * does not have getter and setter methods.
+	 * The Stock Class does not have getter and setter methods.
+	 * The Stock Class keeps registered of books as follows:
+	 * 
 	 */
 
 public class Stock {
