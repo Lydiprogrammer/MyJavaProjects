@@ -1,0 +1,4 @@
+The InputStream class of the java.io package is an abstract superclass that represents an input stream of 
+bytes.
+Since InputStream is an abstract class, it is not useful by itself. However, its subclasses can be used 
+to read data.
